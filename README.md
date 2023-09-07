@@ -1,3 +1,6 @@
+
+![QtVh2nxI](https://github.com/PawseySC/pacer-hackathon-2023/assets/31676791/9d34bcbe-7d72-4b7a-9c07-637e7e300143)
+
 # PaCER Hackathon 2023 Documentation and Attendee Guide
 
 ## Dates
