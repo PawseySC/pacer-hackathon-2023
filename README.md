@@ -65,7 +65,7 @@ In addition to sharing your progress, these updates are good opportunities to ge
 
 On Wednesday afternoon (4pm, 20th September 2023), the teams will finish up their development work for the week and give a final presentation (5-7 minutes / 5-7 slides) detailing their accomplishments; issues they ran into, how they resolved them, speedups they obtained, as well as their closing thoughts on the event and what they learned. 
 
-[presentation template](https://github.com/5719a6e1-3c9a-474e-a0a3-beafaa6128d9)
+[presentation template](ppts/PCon2023Hack_Final.pptx "download")
 
 ### Acknowledgments
 If the work you accomplish at the hackathon leads to a future publication, we encourage you to recognize the mentors and hackathon in the acknowledgement section of the publication. E.g.,
