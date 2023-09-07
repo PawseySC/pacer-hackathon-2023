@@ -52,6 +52,8 @@ On Monday morning (18th September 2023), the first order of business will be for
 
 Also, remember that most participants are probably not familiar with your specific domain, so please keep the jargon to a minimum.
 
+[intro presentation template](https://github.com/PawseySC/pacer-hackathon-2023/raw/main/ppts/PCon2023Hack_Intro.pptx "download")
+
 ### Morning Updates
 
 On Tuesday through Wednesday mornings (19-20th September 2023), each team will give a short (3-4 minute / 2-3 slides) update, including
@@ -59,13 +61,16 @@ On Tuesday through Wednesday mornings (19-20th September 2023), each team will g
 * Goals for the day
 * Problems you are currently facing
 * Problems you have resolved (that other teams might find useful)
+  
 In addition to sharing your progress, these updates are good opportunities to get feedback from other teams and mentors. There is a chance that a problem you are facing has already been encountered and resolved by someone else. Or you might have found and resolved a problem (or reported a bug) that other teams might currently be facing. These hackathons are meant to be cooperative events among all participants, and these update sessions are central to that theme.
+
+[updates presentation template](https://github.com/PawseySC/pacer-hackathon-2023/raw/main/ppts/PCon2023Hack_Daily.pptx "download")
 
 ### Final Presentations
 
 On Wednesday afternoon (4pm, 20th September 2023), the teams will finish up their development work for the week and give a final presentation (5-7 minutes / 5-7 slides) detailing their accomplishments; issues they ran into, how they resolved them, speedups they obtained, as well as their closing thoughts on the event and what they learned. 
 
-[presentation template](https://github.com/PawseySC/pacer-hackathon-2023/raw/main/ppts/PCon2023Hack_Final.pptx "download")
+[final presentation template](https://github.com/PawseySC/pacer-hackathon-2023/raw/main/ppts/PCon2023Hack_Final.pptx "download")
 
 ### Acknowledgments
 If the work you accomplish at the hackathon leads to a future publication, we encourage you to recognize the mentors and hackathon in the acknowledgement section of the publication. E.g.,
