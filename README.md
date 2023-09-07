@@ -19,15 +19,16 @@ Each hackathon team will be joined by Pawsey mentor and will additionally be sup
 * Joe Schoonover (Fluid Numerics)
 
 ## Pawsey Mentors
-* Mehaboob Basha Nagthe Basapur (Pawsey)
-* Deva Deeptimahanti (Pawsey)
-* Cristian Di Pietrantonio (Pawsey)
-* Sarah Beecroft (Pawsey)
-* Marco De La Pierre (Pawsey)
-* Ilkhom Abdurakhmanov (Pawsey)
-* Pascal Elahi (Pawsey)
-* Sam Yates (Pawsey)
-* Maciej Cytowski (Pawsey)
+* Mehaboob Basha Nagthe Basapur 
+* Deva Deeptimahanti 
+* Cristian Di Pietrantonio 
+* Sarah Beecroft 
+* Marco De La Pierre 
+* Ilkhom Abdurakhmanov 
+* Pascal Elahi 
+* Sam Yates 
+* Maciej Cytowski 
+* Christopher Harris 
 
 ## Teams
 * TCLB
