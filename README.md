@@ -39,7 +39,8 @@ Each hackathon team will be joined by Pawsey mentor and will additionally be sup
 * Pascal Elahi 
 * Sam Yates 
 * Maciej Cytowski 
-* Christopher Harris 
+* Christopher Harris
+* Konstantinos Servis-Nussbaum 
 
 ## Teams
 * TCLB
