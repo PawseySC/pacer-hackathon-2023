@@ -21,7 +21,7 @@
 [Setonix Documentation](https://support.pawsey.org.au/documentation/display/US/Setonix+Guides)
 
 ## Format 
-Each hackathon team will be joined by Pawsey mentor and will additionally be supported by the group of hackathon mentors. Hackathon mentors will provide short presentations about their expertise at the beginning of the event and will be available for questions and troubleshooting in their area of expertise throughout the event.  
+Each hackathon team will be joined by Pawsey mentor and will additionally be supported by the group of hackathon mentors. Hackathon mentors will provide short introductions about their expertise at the beginning of the event and will be available for questions and troubleshooting in their area of expertise throughout the event.  
 
 ## Hackathon Mentors
 * Georgios Markomanolis (AMD)
