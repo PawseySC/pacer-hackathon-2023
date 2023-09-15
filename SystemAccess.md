@@ -16,11 +16,11 @@ All PaCER teams and mentors should have access to __PCon23Hackathon__ reservatio
         MaxStartDelay=(null)
 
 ## Requesting GPU node - example
-        salloc -N 1 -pgpu --reservation=PCon23Hackathon -A PROJECT-gpu
+        salloc -N 1 -pgpu --reservation=PCon23Hackathon --exclusive -A PROJECT-gpu
 
 ## Requesting GPU highmem node - example
-        salloc -N 1 -pgpu-highmem --reservation=PCon23Hackathon -A PROJECT-gpu
+        salloc -N 1 -pgpu-highmem --reservation=PCon23Hackathon --exclusive -A PROJECT-gpu
 
 ## Requesting CPU node - example
-        salloc -N 1 -pwork --reservation=PCon23Hackathon -A PROJECT-gpu
+        salloc -N 1 -pwork --reservation=PCon23Hackathon --exclusive -A PROJECT-gpu
 
