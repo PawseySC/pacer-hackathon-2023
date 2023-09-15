@@ -6,6 +6,7 @@ All PaCER teams and mentors should have access to __PCon23Hackathon__ reservatio
 - 10x Setonix CPU nodes (work partition)
 
 
+
     setonix-02:~> scontrol show reservation=PCon23Hackathon
     ReservationName=PCon23Hackathon StartTime=Tomorr 17:00 EndTime=23 Sep 20:00 Duration=7-03:00:00
     Nodes=nid[001020-001032,002072,002090,002094,002096,002142,002144,002160,002162,002180,002182,002200,002202,002892,002894,002896] NodeCnt=28 CoreCnt=2624 Features=(null) PartitionName=(null)
