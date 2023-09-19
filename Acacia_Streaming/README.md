@@ -2,7 +2,7 @@
 
 ### [Rob Edwards](https://github.com/linsalrob), 20/09/23
 
-These are examples for streaming data from `Acacia` and consuming that data in Python. 
+These are examples for streaming data from `Acacia` and consuming that data in Python on setonix. 
 
 There are a couple of simple files that test your setup and make sure you have access to Acacia, 
 and I suggest you start with those.
@@ -36,4 +36,15 @@ print the output in PAF format. If you don't understand that last sentence, this
 
 Good luck!
 
+### Prerequisites
+
+You will need the [boto3](https://pypi.org/project/boto3/) for the streaming examples. You should 
+be able to install that with `pip install -r requirements.txt`. The [mappy](https://pypi.org/project/mappy/)
+library is used for the human genome mapping.
+
+### Using the code
+
+You should be able to run all the code with a simple python call, e.g.
+
+`python print_buckets.py`
 
