@@ -20,10 +20,10 @@ separated by tabs.
    - `stream_s3_file.py` shows how to stream a file and write it either as a binary or text file, or how to 
 print the contents to standard output
 
-   - `simple_streaming.py` is a simple application that streams a (text) file and counts the words in the file.
+   - `stream_acacia_to_script.py` is a simple application that streams a (text) file and counts the words in the file.
 This is designed to demonstrate how you would consume a stream in Python directly.
 
-   - `stream_from_acacia_as_file.py` is a slightly more complex streaming scenario, where you want to stream
+   - `stream_acacia_to_named_pipe.py` is a slightly more complex streaming scenario, where you want to stream
 from a file, but then consume the contents in another application that only accepts a filename as input and
 doesn't accept the data. (Yes, that was my use case.) We use 
 [named pipes](https://man7.org/linux/man-pages/man7/fifo.7.html) to create file-like objects that we can
