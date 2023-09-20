@@ -48,3 +48,8 @@ You should be able to run all the code with a simple python call, e.g.
 
 `python print_buckets.py`
 
+### [Sarah Beecroft](https://github.com/sarahbeecroft), 20/09/23
+Added examples for:
+   - Streaming from Acacia using a named pipe in Snakemake (Thanks Mike Roach). The tool we were testing on (MegaPharokka) would not accept this as input, but it serves as an example for other tools where it might work well. 
+   - SLURM job array script that streams to /tmp. This is a relatively easy workaround for programs that won't accept STDIN/STDOUT but shifts the burden to memory. Might be an issue if the cumulative files size outstrips the /tmp space, which is 256GB on Setonix. 
+
